@@ -208,3 +208,4 @@ __marimo__/
 
 # Large data files
 dl_lab/mnist_features.csv
+MNIST/
